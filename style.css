@@ -1,0 +1,18 @@
+.imagenlogo{
+    width: 100px;
+    height: 40px;
+}
+.navbar navbar-expand-sm mt-5 bg-success p-3{
+    text-align: right;
+}
+.logo-black {
+    height: 24px;
+}
+.main-container{
+
+    padding:5% !important;
+}
+.card{
+    margin-left: 5%;
+    margin-right: 5%;
+}
